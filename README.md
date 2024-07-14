@@ -40,6 +40,12 @@
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/wind.png" title="Windows"  alt="Windows" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/lin.png" title="Linux"  alt="Linux" width="80" height="80"/>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
