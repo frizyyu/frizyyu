@@ -9,6 +9,9 @@
   <a href="https://www.youtube.com/@imfrizyy">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://frizyyu.github.io">
+    <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/mySite.png" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 <div align="center">
