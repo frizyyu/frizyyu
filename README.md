@@ -33,7 +33,7 @@
 - I study front-end and want to become front-and developer
 
 ## What I've been working with:
-<img src="https://github.com/frizyyu/frizyyu/blob/main/icons/react.png" title="React"  alt="React" width="80" height="80"/>
+<img src="https://github.com/frizyyu/frizyyu/blob/main/icons/reactt.png" title="React"  alt="React" width="80" height="80"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/java.png" title="Java"  alt="Java" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/python.svg" title="Python"  alt="Python" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/cs.png" title="CSharp"  alt="CSharp" width="80" height="80"/>
