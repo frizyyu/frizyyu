@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  # Hello, my name is **Artem**
+  # Hi, my name is **Artem**
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frizyyu&theme=dark&background=000000)](https://git.io/streak-stats)
   
@@ -30,8 +30,10 @@
 ## A little bit about me:
 - I study at ITMO University under the system application software program 09.03.04
 - I have been programming for 5 years, 3 of which I studied at Yandex Lyceum
+- I study front-end and want to become front-and developer
 
 ## What I've been working with:
+<img src="https://github.com/frizyyu/frizyyu/blob/main/icons/react.png" title="React"  alt="React" width="80" height="80"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/java.png" title="Java"  alt="Java" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/python.svg" title="Python"  alt="Python" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/cs.png" title="CSharp"  alt="CSharp" width="80" height="80"/>
