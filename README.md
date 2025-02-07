@@ -40,7 +40,7 @@
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/html.png" title="HTML"  alt="HTML" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/css.png" title="CSS"  alt="CSS" width="80" height="80"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/java.png" title="Java"  alt="Java" width="80" height="80" align="left"/>
-<img src="https://github.com/frizyyu/frizyyu/blob/main/icons/java.png" title="Java"  alt="Java" width="310" height="80" align="left"/>
+<img src="https://github.com/frizyyu/frizyyu/blob/main/icons/spring.png" title="Spring"  alt="Spring" width="310" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/python.svg" title="Python"  alt="Python" width="80" height="80" align="left"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/cs.png" title="CSharp"  alt="CSharp" width="80" height="80"/>
 <img src="https://github.com/frizyyu/frizyyu/blob/main/icons/postgresql.png" title="Postgres"  alt="Postgres" width="80" height="80"/>
